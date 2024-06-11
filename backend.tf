@@ -13,7 +13,8 @@ terraform {
     organization = "konanterraform"
 
     workspaces {
-      name = "cloud_armor_factory_mcit_8thFeb"
+      name = "cloud_armor_factory"
+
     }
   }
 }
