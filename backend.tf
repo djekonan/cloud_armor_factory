@@ -1,7 +1,7 @@
 /*
 terraform {
   cloud {
-    organization = "sami600"
+    organization = "konanterraform"
 
     workspaces {
       name = "cloud_armor_factory"
